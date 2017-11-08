@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1385316878 source:d:\sd\main.cpp
+	<iostream>
+
+1510149119 source:d:\sd\src\nodo.cpp
+	"Nodo.h"
+
+1510152368 d:\sd\include\nodo.h
+	<iostream>
+
+1510149834 source:d:\sd\src\lista.cpp
+	"Lista.h"
+
+1510152536 d:\sd\include\lista.h
+	"Nodo.h"
+	<iostream>
+
