@@ -10,12 +10,13 @@ class Nodo
 private:
     T value;
     Nodo *next;
-        Nodo(){}
-        Nodo(T a, Nodo <int> *ptr = NULL){
-            value = a;
-            next = ptr;
-        }
-        ~Nodo();
+public:
+    Nodo(){}
+    Nodo(T a, Nodo <int> *ptr = NULL){
+        value = a;
+        next = ptr;
+    }
+    ~Nodo();
 };
 
 #endif // NODO_H

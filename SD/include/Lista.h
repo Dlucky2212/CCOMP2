@@ -3,7 +3,8 @@
 #include "Nodo.h"
 #include <iostream>
 
-class Lista : public Nodo{
+class Lista
+{
 public:
     int tam;
     Nodo<int>*Head;

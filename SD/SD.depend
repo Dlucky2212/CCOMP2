@@ -5,13 +5,13 @@
 1510149119 source:d:\sd\src\nodo.cpp
 	"Nodo.h"
 
-1510152368 d:\sd\include\nodo.h
+1510152811 d:\sd\include\nodo.h
 	<iostream>
 
 1510149834 source:d:\sd\src\lista.cpp
 	"Lista.h"
 
-1510152536 d:\sd\include\lista.h
+1510152821 d:\sd\include\lista.h
 	"Nodo.h"
 	<iostream>
 
